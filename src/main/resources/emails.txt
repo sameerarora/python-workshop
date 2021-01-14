@@ -1,0 +1,32 @@
+Dagit_Evan@cat.com,
+ Miller_Tim_C@cat.com,
+  Bai_Lu@cat.com,Belsly_Scott_A@cat.com,
+
+Van_Wassenhove_Torsten@cat.com,Smallwood_Deidre@cat.com,
+ DellaValle_Jeremy_E@cat.com,
+  Cotton_Clifford_E@cat.com,
+   Gunasekaran_Kavitha@cat.com,
+
+Bidne_Matthew_J@cat.com,
+ WILSON_MARK_D@cat.com,
+  PHAM_HIEN@cat.com,
+   Tobben_Matt@cat.com,
+    Azhar_Ali_Mohammed@cat.com,
+
+Faulkner_Robert@cat.com,
+ Jackson_Paul_D@cat.com,
+  Rangan_Vidhya@cat.com
+
+Dagit_Evan@cat.com, Miller_Tim_C@cat.com, Bai_Lu@cat.com,wilson_mark_d@cat.com
+
+Dagit_Evan@cat.com, Miller_Tim_C@cat.com, Bai_Lu@cat.com,kunkle_matthew_l@cat.com,Tobben_Matt@cat.com,wilson_mark_d@cat.com
+Dagit_Evan@cat.com, Miller_Tim_C@cat.com,kunkle_matthew_l@cat.com,pham_hien@cat.com
+Van_Wassenhove_Torsten@cat.com, Smallwood_Deidre@cat.com,Faulkner_Robert@cat.com,Jackson_Paul_D@cat.com,Rangan_Vidhya@cat.com
+
+Join Microsoft Teams Meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjYwNWZkOWMtYzZhOS00NTIzLWFkNjMtNTE3NWRiYjZlZDRm%40thread.v2/0?context=%7b%22Tid%22%3a%22ceb177bf-013b-49ab-8a9c-4abce32afc1e%22%2c%22Oid%22%3a%2283c8eefb-a3a9-4527-b8b1-7fe176571fff%22%7d>
+Learn more about Teams<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=83c8eefb-a3a9-4527-b8b1-7fe176571fff&tenantId=ceb177bf-013b-49ab-8a9c-4abce32afc1e&threadId=19_meeting_MjYwNWZkOWMtYzZhOS00NTIzLWFkNjMtNTE3NWRiYjZlZDRm@thread.v2&messageId=0&language=en-US>
+
+
+other meeting
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmVmNjU0MzMtNTRlMC00MzJiLWE3Y2UtNThhMWZmYWVhOTIy%40thread.v2/0?context=%7b%22Tid%22%3a%22ceb177bf-013b-49ab-8a9c-4abce32afc1e%22%2c%22Oid%22%3a%2283c8eefb-a3a9-4527-b8b1-7fe176571fff%22%7d

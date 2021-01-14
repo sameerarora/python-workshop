@@ -1,0 +1,27 @@
+id,origin,destination,cost
+insert into flights (id,origin,destination,cost) values (1,'SFO','JFK',500);
+insert into flights (id,origin,destination,cost) values (2,'SFO','DFW',200);
+insert into flights (id,origin,destination,cost) values (3,'SFO','MCO',400);
+insert into flights (id,origin,destination,cost) values (4,'DFW','MCO',100);
+insert into flights (id,origin,destination,cost) values (5,'DFW','JFK',200);
+insert into flights (id,origin,destination,cost) values (6,'JFK','LHR',1000);
+
+
+insert into flights (id,origin,destination,cost) values
+
+SELECT origin, destination, min(cost)
+FROM (
+SELECT
+f1.origin AS origin,
+f1.destination AS Mid_airport1,
+f2.destination AS Mid_airport2,
+coalesce(f3.destination, f2.destination, f1.destination) as destination,
+f1.cost + coalesce( f2.cost, 0) +coalesce( f3.cost, 0)   as cost
+FROM
+flights f1 LEFT JOIN flights f2 ON
+f1.destination = f2.origin LEFT JOIN  flights f3 ON
+f2.destination = f3.origin
+UNION ALL SELECT
+origin, '', '', destination, cost FROM flights
+) t
+GROUP BY origin, destination
